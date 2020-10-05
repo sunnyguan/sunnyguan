@@ -41,11 +41,11 @@ I am a CS student at The University of Texas at Dallas
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/sunnyguan/whiteboard" title="Algorithms"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnyguan&repo=whiteboard&show_owner=false"></a><a align="right" href="https://github.com/sunnyguan/UTDCourseSearch" title="Data Structures"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnyguan&repo=UTDCourseSearch&show_owner=false"></a>
+  <a align="left" href="https://github.com/sunnyguan/whiteboard" title="Algorithms"><img align="left" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnyguan&repo=whiteboard&show_owner=false"></a><a align="right" href="https://github.com/sunnyguan/UTDCourseSearch" title="Data Structures"><img align="right" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnyguan&repo=UTDCourseSearch&show_owner=false"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/sunnyguan/utdegree-planner" title="Turkce-Heceleme-CPP"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnyguan&repo=utdegree-planner&show_owner=false"></a>
-  <a align="right" href="https://github.com/ACM-Research/vr-viewport-analysis" title="Copy&Move Forgery Detection With DCT"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=ACM-Research&repo=vr-viewport-analysis&show_owner=false"></a>
+  <a align="left" href="https://github.com/sunnyguan/utdegree-planner" title="Turkce-Heceleme-CPP"><img align="left" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnyguan&repo=utdegree-planner&show_owner=false"></a>
+  <a align="right" href="https://github.com/ACM-Research/vr-viewport-analysis" title="Copy&Move Forgery Detection With DCT"><img align="right" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=ACM-Research&repo=vr-viewport-analysis&show_owner=false"></a>
 </p>
 <br><br>
