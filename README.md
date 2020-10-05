@@ -6,7 +6,7 @@ I am a CS student at The University of Texas at Dallas
 
 ---
 
-I'm working on ...
+### I'm working on ...
  
  🔭 Research: Detecting salient features in VR videos to predict user viewport and optimize network usage.
  
@@ -37,8 +37,6 @@ I'm working on ...
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sunny-guan/)
 <br>
 ---
-
-<img  src="https://github-readme-stats.vercel.app/api?username=sunnyguan&show_icons=true&hide_border=true"> 
 
 <h2 align="center">Repositories</h2>
 
