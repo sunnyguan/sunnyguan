@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![vis.jpg](https://visitor-badge.glitch.me/badge?page_id=sunnyguanaaaaa)
+![vis.jpg](https://visitor-badge.glitch.me/badge?page_id=sunnyguan)
 
 I am a CS student at The University of Texas at Dallas 
 
