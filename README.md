@@ -10,7 +10,7 @@ I am a CS junior at The University of Texas at Dallas
 
 ### About Me
  
- 🔭 Experiences: Incoming software engineering intern @ Virtu Financial (Fall 2021) and Amazon (Summer)
+ 🔭 Experiences: Incoming software engineering intern @ Virtu Financial (Fall) and Amazon (Summer)
  
  🌱 Project: Project Nebula, a comprehensive degree planner built for UTD students
  
